@@ -32,10 +32,7 @@ Autopsy is a popular open-source digital forensics platform used by law enforcem
    - Enter case name, base directory for case storage
    - Fill in optional case details (examiner name, case number, etc.)
    
-   [Screenshot placeholder: New case creation window]
-   ![alt text](https://github.com/Yaswanth767/Digital-Forensics/blob/main/images/Screenshot%202025-10-23%20193953.png?raw=true)
-   <!-- Insert screenshot of new case creation window in Output Screenshot/Exp5/new_case.png -->
-
+   
 3. **Configure Case Database**
    - Select the database type (Single-user or Multi-user)
    - Choose the database location
